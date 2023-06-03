@@ -140,9 +140,9 @@ You can deploy this project using: GitHub Pages,
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Bettenoch)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](kedin.com/in/bett-kipngeno-enock-8b5153214/)
+- GitHub: [https://github.com/Bettenoch](https://github.com/Bettenoch)
+- Twitter: [https://twitter.com/twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [https://twitter.com/twitterhandle](kedin.com/in/bett-kipngeno-enock-8b5153214/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
