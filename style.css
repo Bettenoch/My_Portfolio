@@ -1,0 +1,146 @@
+:root {
+  --orange-color: #ff6b00;
+  --white-color: #f4f5f7;
+  --grey-white: #fff;
+  --greyish-white: #fff5e1;
+  --clear-blue: #6070ff;
+  --dark-blue: #172b4d;
+  --light-blue: #344563;
+  --lighter-blue: #7f8cff;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+.navbar {
+  background-color: var(--grey-white);
+  width: 100%;
+  height: 10vh;
+  padding: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  box-shadow: 0 1.3rem 3.2rem rgba(0, 0, 0, 0.03);
+  z-index: 999;
+}
+
+.nav_list li {
+  display: none;
+  list-style: none;
+}
+
+.nav_toggle {
+  position: absolute;
+  display: flex;
+  right: 0;
+  cursor: pointer;
+  padding: 1rem;
+  margin: 1rem 2rem;
+  width: 1.5rem;
+  z-index: 1001;
+}
+
+.nav_toggle a {
+  width: 1.5rem;
+  color: var(--clear-blue);
+}
+
+.ri-close-line {
+  display: none;
+  color: var(--grey-white);
+}
+
+.ri-menu-line {
+  margin-top: 0.2rem;
+  color: var(--clear-blue);
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: var(--grey-white);
+  width: 4.3rem;
+  height: 1.5rem;
+  font-weight: 700;
+  font-size: 1.6rem;
+  margin-right: auto;
+}
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+/* Headline section */
+.top_headline {
+  height: 100%;
+  background: url('./assets/images/header-shapes\ mobile@2x.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 100% 8rem;
+  margin-bottom: 12.8rem;
+  padding-bottom: 2rem;
+}
+
+.headline_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2rem;
+  padding: 1.5rem;
+}
+
+.primary-text {
+  color: var(--dark-blue);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 14rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 3rem;
+}
+
+.secondary_text {
+  color: var(--light-blue);
+  padding-bottom: 1.2rem;
+  font-size: 1rem;
+  line-height: 2rem;
+  font-weight: 500;
+}
+
+.social_media {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.tertiary-text {
+  color: var(--lighter-blue);
+  font-weight: 400;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.socialmedia-icons {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.socialmedia-icons i {
+  list-style: none;
+}
