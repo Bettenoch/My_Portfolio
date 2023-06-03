@@ -25,7 +25,7 @@
 
 # 📖 My Portfolio <a name="about-project"></a>
 
-**My_Portfolio**is my personal portfolio with about work and contact section .
+**My_Portfolio **is my personal portfolio with about work and contact section .
 
 ## 🛠 Built With <a name="built-with"></a>
 
