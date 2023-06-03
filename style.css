@@ -144,108 +144,119 @@
 .socialmedia-icons i {
   list-style: none;
 }
+
 /* Headline section */
 
-.wrapper-grid{
-    display: grid;
-    grid-template-columns:1fr;
-    justify-content: center;
-    grid-gap:2rem;  
-}
-.gridcontainer{
-    overflow: hidden;
-    border-radius: 1rem;
-    
-    display: flex;
-    flex-direction: column;
-    border: 1px solid #dfe1e6;
-}
-.snapshot{
-    margin: 2rem ;
+.wrapper-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  grid-gap: 2rem;
 }
 
-.snapshot img{
-    width: 18.4rem;
-    height: 13.7rem;
+.gridcontainer {
+  overflow: hidden;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dfe1e6;
 }
-.grid-items{
-    display:flex;
-    flex-direction: column;
-    padding: 2rem;
-    
+
+.snapshot {
+  margin: 2rem;
 }
-.snapshot-list{
-    display:flex;
-    flex-direction: row;
-    gap:2rem;
-    
+
+.snapshot img {
+  width: 18.4rem;
+  height: 13.7rem;
 }
-.content1{
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 0.8rem;
-    line-height: 0.8rem;
-    color: #344563;
-    padding-top:0.5rem ;
+
+.grid-items {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
 }
-.snapshot-text{
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 0.9rem;
-    line-height: 1.5rem;
-    color: var(--light-blue);
-    padding: 1rem, 1rem;
-    margin-top: 1rem;
-    margin-bottom:1rem;
+
+.snapshot-list {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
 }
-.content2 li{
-    background-color:#EBEBFF ;
-    border-radius:0.5rem ;
-    padding: 0.35rem 0.75rem;
-    margin-bottom: 0.5rem;
+
+.content1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.8rem;
+  line-height: 0.8rem;
+  color: #344563;
+  padding-top: 0.5rem;
 }
-.btn{
-    border: 1px solid #6070FF;
-    border-radius: 0.5rem ;
-    width:7.8rem ;
-    height:3rem ;
+
+.snapshot-text {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  color: var(--light-blue);
+  padding: 1rem, 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
+
+.content2 li {
+  background-color: #ebebff;
+  border-radius: 0.5rem;
+  padding: 0.35rem 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.btn {
+  border: 1px solid #6070ff;
+  border-radius: 0.5rem;
+  width: 7.8rem;
+  height: 3rem;
+}
+
 /* about section */
-.about-container{
+.about-container {
   display: flex;
   flex-direction: column;
   flex: 1;
   width: 100%;
- 
 }
-.minicontainers{
+
+.minicontainers {
   display: flex;
   flex-direction: column;
   overflow: hidden;
   margin: 2rem;
 }
-.about1{
+
+.about1 {
   border: 1px solid red;
 }
-.about2{
+
+.about2 {
   border: 1px solid blueviolet;
 }
-.main_containers{
+
+.main_containers {
   height: 100%;
 }
-.about-primary-text{
+
+.about-primary-text {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: 700;
   font-size: 2.5rem;
   line-height: 3.25rem;
   margin-top: 6rem;
-
   color: #172b4d;
 }
-.about-secondary-text{
+
+.about-secondary-text {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: 700;
@@ -255,46 +266,53 @@
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
-.skills{
+
+.skills {
   display: flex;
-  flex:1;
+  flex: 1;
   flex-direction: column;
   list-style-type: none;
   margin-bottom: 12rem;
 }
-.skill-title{
+
+.skill-title {
   display: flex;
-  
   justify-content: space-between;
   margin-top: 3rem;
 }
-.skills-primary-text{
+
+.skills-primary-text {
   width: 100%;
   padding-bottom: 2rem;
   font-size: 2rem;
-  font-weight:400;
+  font-weight: 400;
 }
-.dropdown{
+
+.dropdown {
   width: 2.5rem;
   height: 2.4rem;
   color: #acb7c3;
   margin-right: 1.9rem;
 }
-.language-components{
+
+.language-components {
   gap: 1.2rem;
   display: flex;
   flex-direction: column;
 }
-.language-components li p{
+
+.language-components li p {
   color: #258582;
-  font-size:1.5rem;
+  font-size: 1.5rem;
   font-weight: 600;
 }
-.logo{
+
+.logos {
   width: 4.3rem;
   height: 4.6rem;
   list-style: none;
 }
-.javacriptlogo{
+
+.javacriptlogo {
   border-radius: 4rem;
 }
