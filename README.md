@@ -1,6 +1,15 @@
-# My_Portfolio
-A descriptive portfolio with work, about and contact sections.
 <a name="readme-top"></a>
+
+<div align="center">
+  
+  <img src="assets\images\cvimage2.JPG" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>My Portfolio</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -8,64 +17,63 @@ A descriptive portfolio with work, about and contact sections.
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [📹 Video Description](#video-description)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
-- [👤 Author](#author)
+- [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 My Portfolio <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-**My_Portfolio **is my personal portfolio with about work and contact section .
+# 📖 [My_Portfolio] <a name="about-project"></a>
+
+
+**[My_Portfolio]** is a personal portfolio website that descibes my work and related projects, Previous jobs experiences
+and contact information. As most industry's are looking for digital precense, a personal portfolio website is a cutting edge for job security.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML5</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS3</a></li>
-  </ul>
-</details>
+> 
+
+
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Responsive Design.**
-- **Mobile first design.**
+> Describe between 1-3 key features of the application.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📹 Video Description <a name="video-description"></a>
-
-- [Here is a video walk through given by myself.]
+- **[Mobile_first design]**
+- **[Cross-plartfom responsiveness]**
+- **[User Friendliness]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Here is the link to the live experience](#).
+> Add a link to your deployed project.
 
-> |     | Mobile version                      | 
-> | --- | ----------------------------------- | ------------------------------------ | --- |
-> |     | ![Screenshot1](./images/screenshots/mobile.gif) | ![Screenshot2](./images/screenshots/desktop.gif) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
 ## 💻 Getting Started <a name="getting-started"></a>
+
+> 
 
 To get a local copy up and running, follow these steps.
 
@@ -73,17 +81,12 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
-- An IDE e.g [Visual studio code](https://code.visualstudio.com/).
-- `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
-- Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
-- [A terminal](https://code.visualstudio.com/docs/terminal/basics).
+git clone <repo https://github.com/Bettenoch/My_Portfolio>
+cd <repo My-Portfolio>
 
 ### Setup
 
-Clone this repository to your desired folder or download the Zip folder:
-
-```
+Clone this repository to your desired folder:
 
 - Navigate to the location of the folder in your machine:
 
@@ -121,46 +124,59 @@ npx stylelint "**/*.{css,scss}"
 npx eslint .
 ```
 
-### Deployment <a name="deployment"></a>
+### Deployment
+
+You can deploy this project using:
 
 You can deploy this project using: GitHub Pages,
--
-- For more information about publishing sources, see "[About GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👤 Author <a name="author"></a>
+<!-- AUTHORS -->
 
-👤 **Is-Bett Enock**
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
 
 - GitHub: [https://github.com/Bettenoch](https://github.com/Bettenoch)
-- Twitter: [@twitterhandle](https://twitter.com/BybEnoch/photoe)
-- LinkedIn: [LinkedIn](linkedin.com/in/bett-kipngeno-enock-8b5153214/)
+- Twitter: [https://twitter.com/twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [https://twitter.com/twitterhandle](kedin.com/in/bett-kipngeno-enock-8b5153214/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Implement Transitions Animation for hover effect.**
-- [ ] **Implement a desktop version.**
-- [ ] **Add more pages.**
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Desktop Version]**
+- [ ] **[Contact Section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Bettenoch/My_Portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 
-Give a ⭐️ if you like this project and how I managed to build it!
+If you like this project give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -172,20 +188,12 @@ Give a ⭐️ if you like this project and how I managed to build it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ <a name="faq"></a>
-
-- **Can I fork and reuse the repository**
-
-  - Yes please, feel free.
-
-- **Can I improve the repository, and my changes will be accepted if they are good?**
-
-  - Yes please, nice ideas are welcome, please.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Bettenoch/My_Portfolio/blob/main/LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
